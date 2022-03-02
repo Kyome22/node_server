@@ -2,7 +2,7 @@
   "name": "node_server",
   "version": "0.0.1",
   "private": true,
-  "description": "A sample file server with Node.js",
+  "description": "This is a sample code for a file server written in Node.js.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
